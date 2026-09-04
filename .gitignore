@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.minimax/
+
+# Logs
+*.log
+logs/
+
+# Local files
+start-server.sh
+Pawlog.zip
+bd221a6d-c15e-409d-ae12-e735d25845b9.png
+启动服务器.rtf
